@@ -1,0 +1,16 @@
+﻿fMRI_subject,baseline pre-cue,baseline post-cue,pre-registration,post-registration,intra-op 1st shot ,intra-op 2nd shot ,intra-op 3rd shot ,intra-op 4th shot,intra-op 5th shot,post-7d pre-cue,post-7d post-cue,post-3M pre-cue,post-3M post-cue,post-6M pre-cue
+sub_02,0,4,8,8,5,3,0,0,NA,0,0,0,0,2
+sub_03,3,5,7,7,2,2,0,0,NA,0,0,2,2,2
+sub_04,2,10,5,5,1,0,0,0,NA,0,0,0,0.6,3
+sub_05,3,7,8,7.5,7,5,4,1,0,0,0,1,1,2
+sub_06,0,3,4,3,6,2,1,0,0,0,2,0,0.5,2
+sub_07,0,0,4,5,2,0,0,0,NA,0,0,0,0,0
+sub_08,2,4,6,6,1,0,0,0,NA,3,2,1,1,1
+sub_09,0,0,6,6,5,4,4,3,2,1,3,2,3,4
+sub_11,1.2,2,8,6,4,3,2,2,NA,1,2,0,3,4
+sub_12,0,0,5,4,2,0,0,NA,NA,0,0,0,0,0
+sub_13,1,4,7,6,6,5,4,2,0,3,2,0,0,3
+sub_14,5,7,9,9,6,6,4,4,2,3,3,1,2,3
+sub_15,7,8,6,5,2,0.5,0,0,0,2,1.8,1,1,0
+sub_16,0,0,4,6,7,4,2,1,0,4,5,1,1,4
+sub_17,5,10,9.5,10,10,5,6.5,4,1,1,1,0,0,7
